@@ -7,8 +7,7 @@
     },
     "main": "movies.js",
     "scripts": {
-      "start": "node movies.js",
-      "test": "node test.js"
+      "start": "node movies.js"
     }
 }
   

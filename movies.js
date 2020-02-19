@@ -12,7 +12,6 @@ const promise = axios
   .catch(function (error) {
     console.log(error)
   })
-  console.log(promise)
 
 const PORT = process.env.PORT || 5000
 
